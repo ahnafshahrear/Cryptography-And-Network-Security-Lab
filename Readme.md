@@ -4,7 +4,7 @@
 
 ## Lab Tasks
 - **Caesar Cipher ✓**
-- **Polygram Substitution Cipher**
+- **Polygram Substitution Cipher ✓**
 - **Transposition Cipher & Double Transposition Cipher ✓**
 - **One Time Pad**
 - **Lehmann Algorithm**
