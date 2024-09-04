@@ -10,4 +10,4 @@
 - **Lehmann Algorithm**
 - **Robin-Miller Algorithm**
 - **RSA Algorithm**
-- **Diffie-Hellman Key Exchange**
+- **Diffie-Hellman Key Exchange ✓**
