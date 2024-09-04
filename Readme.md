@@ -7,7 +7,7 @@
 - **Polygram Substitution Cipher ✓**
 - **Transposition Cipher ✓**
 - **Double Transposition Cipher ✓**
-- **One Time Pad**
+- **One Time Pad ✓**
 - **Lehmann Algorithm**
 - **Robin-Miller Algorithm**
 - **RSA Algorithm**
